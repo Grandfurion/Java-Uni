@@ -1,4 +1,4 @@
-package edu.nmu.Lab0;
+package main.java.Lab0;
 
 public class Main {
     public static void main(String[] args) {
